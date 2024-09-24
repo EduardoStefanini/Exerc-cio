@@ -79,7 +79,7 @@ int main() {
 
 // questão 2 - B
 
-// questão 3 - alternativa a
+// questão 3 - alternativa "A" Resultado: F = 369, C = 187,22
 
 #include <stdio.h>
 
@@ -99,7 +99,7 @@ int main() {
     return 0;
 }
 
-// questão 3 - alternativa b
+// questão 3 - alternativa "B" Resultado: F 369, C = 0
 
 #include <stdio.h>
 
